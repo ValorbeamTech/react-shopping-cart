@@ -1,0 +1,30 @@
+Tools & Technology
+- javascript (programming language)
+    1. arrow functions
+    2. array functions
+    3. spread operators
+    4. deconstructing assignments
+    5. local storage
+- reactjs (frontend ui library)
+    1. react-router-dom
+    2. react-reveal
+    3. react-modal
+- redux (state manager)
+    1. react-redux
+    2. redux-thunk
+- nodejs (backend api)
+    1. express
+    2. body-parser
+    3. environment-variables
+    4. nodemon
+- mongoDB (no-sql database)
+    1. moongose
+    2. shortid
+- vs code ide
+    1. ES6 code snippets
+    2. ES7 react extension
+    3. ESLint extension
+    4. Node debug
+    5. Css Peek
+
+Features

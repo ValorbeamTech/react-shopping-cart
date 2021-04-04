@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "_id":"dress1",
+            "title": "Dress 1",
+            "description": "About dress 1",
+            "price": 19,
+            "availableSizes": ["XL", "XXL"],
+            "image":"/images/image1.jpg"
+        },
+        {
+            "_id":"dress2",
+            "title": "Dress 2",
+            "description": "About dress 2",
+            "price": 12,
+            "availableSizes": ["XL", "XXL","L"],
+            "image":"/images/image2.jpg"
+        },
+        {
+            "_id":"dress3",
+            "title": "Dress 3",
+            "description": "About dress 3",
+            "price": 13,
+            "availableSizes": ["XL", "XXL","S"],
+            "image":"/images/image3.jpg"
+        },
+        {
+            "_id":"dress4",
+            "title": "Dress 4",
+            "description": "About dress 4",
+            "price": 14,
+            "availableSizes": ["XL", "XXL", "S"],
+            "image":"/images/image4.jpg"
+        },
+        {
+            "_id":"dress5",
+            "title": "Dress 5",
+            "description": "About dress 5",
+            "price": 15,
+            "availableSizes": ["XL", "XXL", "M"],
+            "image":"/images/image5.jpg"
+        },
+        {
+            "_id":"dress6",
+            "title": "Dress 6",
+            "description": "About dress 6",
+            "price": 29,
+            "availableSizes": ["XL", "XXL","L"],
+            "image":"/images/image6.jpg"
+        }
+    ]
+}
